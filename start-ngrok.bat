@@ -1,0 +1,1 @@
+cmd.exe /k ngrok http 3000 --region eu
